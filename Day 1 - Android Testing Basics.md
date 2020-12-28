@@ -295,7 +295,7 @@ Linux Kernel Sits at the Bottom => It give Better Performance for mobile environ
 
 
 
-![Platform Overview - Mobile Security Testing Guide](https://gblobscdn.gitbook.com/assets%2F-LH00RC4WVf3-6Ou4e0l%2F-LH01MDtt6HbYXiGeu9M%2F-LH01WsIULGfIPybLrrg%2FSelection_003.png?alt=media)
+![Platform Overview - Mobile Security Testing Guide](https://gblobscdn.gitbook.com/assets/-LH00RC4WVf3-6Ou4e0l/-LH01MDtt6HbYXiGeu9M/-LH01WsIULGfIPybLrrg/Selection_003.png?alt=media)
 
 
 
